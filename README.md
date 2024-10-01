@@ -1,4 +1,5 @@
 # AppCompararTexto Proyecto FInal Integrador Ticmas "Desarrollo de aplicaciones moviles"
+![Link an image.](preview.jpg)
 
 Alumno:Alejandro Alberto Ponce
 Consigna:Debe contener una única pantalla (sin importar el layout elegido) con:
